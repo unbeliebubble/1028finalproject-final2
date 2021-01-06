@@ -2,7 +2,7 @@ body{
     padding: 0;
     margin: 0;
 }
-/* .container{
+.container{
     border: tomato 1px solid;
     overflow: hidden;
 }
@@ -14,78 +14,16 @@ body{
 }
 .col-6{
   border: pink 1px solid;
-}  */
-
-/* pro nav bar */
-.product .container{
-  background-color: #FFDED6;
-}
-a{
-  color: gray;
-}
-a:hover{
-  color: #EF3C5F;
-}
-/* dropdown */
-.btn{
-  background-color: #fff;
-  color: gray;
-  margin: 10px;
-}
-.dif-row{
-  background-color: #FFDED6;
-  
-}
-.pd{
-  background-color: #fff;
-  display: block;
-  margin: auto;
-  border-radius: 10px ;
-  width: 250px;
-}
-.pd .pdi{
-  width: 195px;
-  display: block;
-  margin: auto;
-}
-.icon-like{
-  width: 30px;
-  margin-left: 200px;
-  /* margin-top: 0; */
-  margin-bottom: -40px;
-  /* border: blue 1px solid; */
-}
-/* p{
-  border: blue 1px solid;
-} */
-.title{
-  margin-bottom: 0;
-  margin-left: 10px;
-  font-size: 16px;
-  padding: 0;
-}
-.price1{
-  margin-left: 12px;
-  /* margin-top: -36px; */
-  width: 50px;
-  font-size: 12px;
-  margin-top: -16px;
-  text-decoration:line-through;
-}
-.price2{
-  margin-left: 12px;
-  width: 55px;
-  margin-top: -16px;
-  font-size: 14px;
-  color:red;
-}
+}  
 
 
+/* coverphoto */
 
-
-
-
-
+.cover{
+    width: 75%;
+    display: block;
+    margin: auto;
+}
 
 
 /* nav bar */
