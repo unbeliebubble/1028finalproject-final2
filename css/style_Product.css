@@ -2,7 +2,7 @@ body{
     padding: 0;
     margin: 0;
 }
-.container{
+/* .container{
     border: tomato 1px solid;
     overflow: hidden;
 }
@@ -14,7 +14,7 @@ body{
 }
 .col-6{
   border: pink 1px solid;
-} 
+}  */
 
 /* pro nav bar */
 .product .container{
@@ -30,9 +30,11 @@ a:hover{
 .btn{
   background-color: #fff;
   color: gray;
+  margin: 10px;
 }
 .dif-row{
   background-color: #FFDED6;
+  
 }
 .pd{
   background-color: #fff;
@@ -51,11 +53,11 @@ a:hover{
   margin-left: 200px;
   /* margin-top: 0; */
   margin-bottom: -40px;
-  border: blue 1px solid;
+  /* border: blue 1px solid; */
 }
-p{
+/* p{
   border: blue 1px solid;
-}
+} */
 .title{
   margin-bottom: 0;
   margin-left: 10px;
