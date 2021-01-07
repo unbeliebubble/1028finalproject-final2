@@ -2,7 +2,7 @@ body{
     padding: 0;
     margin: 0;
 }
-/* .container{
+ .container{
     border: tomato 1px solid;
     overflow: hidden;
 }
@@ -14,28 +14,9 @@ body{
 }
 .col-6{
   border: pink 1px solid;
-}   */
+}   
 
 
-/* coverphoto */
-
-.cover{
-    width: 75%;
-    display: block;
-    margin: auto;
-}
-/* middle line */
-.mid-line{
-    width: 90%;
-    display: block;
-    margin: auto;
-}
-/* lookbook */
-.lb{
-    width: 70%;
-    display: block;
-    margin: auto;
-}
 
 
 
