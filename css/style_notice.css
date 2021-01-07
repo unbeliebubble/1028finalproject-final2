@@ -16,8 +16,20 @@ body{
   border: pink 1px solid;
 }   
 
-
-
+/* notice */
+.notice-line{
+width: 100vw;
+height: 110px;
+margin-bottom: 50px;
+background: radial-gradient(100% 12388.66% at 0% 50.43%, #F4BABA 0%, #FFE7DA 100%);
+}
+h3{
+    padding-top: 43px;
+    text-align: center;
+}
+h4{
+    display: none;
+}
 
 
 /* nav bar */
@@ -281,6 +293,14 @@ th{
     margin-top: 80px;
 
   }
+  .notice-line{
+    height: 100px;
+    margin-bottom: 50px;
+   }
+   h3{
+    padding-top: 33px;
+    text-align: center;
+}
 }
 
 @media (max-width: 480px){
@@ -392,6 +412,20 @@ th{
     font-size: 8px;
     text-align: center;
   }
+  .notice-line{
+    height: 80px;
+    margin-bottom: 30px;
+   }
+   h3{
+    display: none;
+}
+    h4{
+        display: block;
+        padding-top: 27px;
+        text-align: center;
+}
+    }
+
 }
                            
 
